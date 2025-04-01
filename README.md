@@ -1,6 +1,6 @@
 <h1 align="center">EXAM 42 - rank 2</h1>
 
-<p align="center">This functions are made by me and some help with others repositories, This is meant to guide those who need help, not to be copied entirely without understanding."</p>
+<p align="center">This functions are made by me and some help with others repositories, This is meant to guide those who need help, not to be copied entirely without understanding.</p>
 
 
 ## Contato
