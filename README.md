@@ -1,7 +1,9 @@
-<h1 align="center">EXAM 42 - rank 2</h1>
+<h1 align="center">EXAM'S 42</h1>
 
 <p align="center">This functions are made by me and some help with others repositories, This is meant to guide those who need help, not to be copied entirely without understanding.</p>
 
+![EXAM RANK 02](exam02.png)
+![EXAM RANK 03](exam03.png)
 
 ## Contato
 
